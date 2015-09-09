@@ -2,7 +2,9 @@ There are some .file in this dir and you must use ls -all to view all these .fil
 e.g. 
 .tmux.conf 
 .zshrc
+.gitconfig
 
 1. tmux config path is ~/.tmux.conf
 2. vim config path is /usr/share/vim/vimrc
 3. zsh config path is ~/.zshrc
+4. git config path is ~/.gitconfig

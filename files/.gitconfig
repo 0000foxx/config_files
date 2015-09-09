@@ -1,0 +1,21 @@
+[core]
+	editor = vim
+[user]
+	name = 
+	email = 
+[color]
+	status = always
+	ui = always
+[color "status"]
+	header = normal normal blink
+	untracked = yellow normal blink
+	changed = yellow normal blink
+	added = yellow normal blink
+	nobranch = normal normal blink
+	updated = yellow normal blink
+[color "branch"]
+	current = yellow normal blink
+[http]
+	postbuffer = 160000000
+[pack]
+	windowMemory = 256m

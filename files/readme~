@@ -5,4 +5,4 @@ e.g.
 
 1. tmux config path is ~/.tmux.conf
 2. vim config path is /usr/share/vim/vimrc
-3. zsh config path is ./.zshrc
+3. zsh config path is ~/.zshrc
